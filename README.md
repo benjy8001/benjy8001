@@ -19,13 +19,22 @@
 </p>
 
 ---
-
-<p align='center'>
-  <a href="https://github.com/benjy8001/web-cv"><img src="https://github-readme-stats.vercel.app/api/pin/?username=benjy8001&repo=web-cv" width="350"></a>
-  <a href="https://github.com/benjy8001/php-fpm-opencv"><img src="https://github-readme-stats.vercel.app/api/pin/?username=benjy8001&repo=php-fpm-opencv" width="350"></a>
+<h2 align="center">My favorite projects 💻</h2>
+<br />
+<p align="center">
+  <img width="400" src="https://github.com/benjy8001/web-cv/blob/V2/public/thumbnail-web-cv.png" />
+  <img width="400" src="https://github.com/benjy8001/php-fpm-opencv/blob/main/public/thumbnail.png" />
+  <br />
+  <a href="https://github.com/benjy8001/web-cv">
+    <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=benjy8001&repo=web-cv" />
+  </a>
+  <a href="https://github.com/benjy8001/php-fpm-opencv">
+    <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=benjy8001&repo=php-fpm-opencv" />
+  </a>
 </p>
 
 ---
+<h2 align="center">About me 😇</h2>
 
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=benjy8001&show_icons=true&count_private=true&theme=dark" width="350"></a>
@@ -33,6 +42,18 @@
 </p
 
 ---
+
+<details>
+  <summary>📃 Resume</summary>
+
+
+## Education
+
+## Experience
+</details>
+
+---
+
 <p align='center'>
   Do you like my open source projects? <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars ⭐</a>
 </p>
