@@ -1,5 +1,18 @@
 ### Hi there 👋
 
+---
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=benjy8001&repo=web-cv)](https://github.com/benjy8001/web-cv)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=benjy8001&repo=php-fpm-opencv)](https://github.com/benjy8001/php-fpm-opencv)
+
+---
+
+![benjy8001's GitHub stats](https://github-readme-stats.vercel.app/api?username=benjy8001&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=benjy8001&layout=compact&show_icons=true&theme=radical)](https://github.com/benjy8001/)
+
+
+
+
+
 <!--
 **benjy8001/benjy8001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
