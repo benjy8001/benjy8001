@@ -22,15 +22,36 @@
 <h2 align="center">My favorite projects 💻</h2>
 <br />
 <p align="center">
-  <img width="400" src="https://github.com/benjy8001/web-cv/blob/V2/public/thumbnail-web-cv.png" />
-  <img width="400" src="https://github.com/benjy8001/php-fpm-opencv/blob/main/public/thumbnail.png" />
-  <br />
-  <a href="https://github.com/benjy8001/web-cv">
-    <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=benjy8001&repo=web-cv" />
-  </a>
-  <a href="https://github.com/benjy8001/php-fpm-opencv">
-    <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=benjy8001&repo=php-fpm-opencv" />
-  </a>
+  <table>
+    <tr>
+      <td><img width="400" src="https://github.com/benjy8001/web-cv/blob/V2/public/thumbnail-web-cv.png" /></td>
+      <td><img width="400" src="https://github.com/benjy8001/php-fpm-opencv/blob/master/public/thumbnail.png" /></td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/benjy8001/web-cv">
+          <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=benjy8001&repo=web-cv&theme=dark" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/benjy8001/php-fpm-opencv">
+          <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=benjy8001&repo=php-fpm-opencv&theme=dark" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td><img width="400" src="https://github.com/benjy8001/zsh_powerlevel9k_installer/blob/master/public/thumbnail.png" /></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/benjy8001/zsh_powerlevel9k_installer">
+          <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=benjy8001&repo=zsh_powerlevel9k_installer&theme=dark" />
+        </a>
+      </td>
+      <td></td>
+    </tr>
+  </table>
 </p>
 
 ---
