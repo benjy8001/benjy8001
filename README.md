@@ -49,7 +49,11 @@
           <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=benjy8001&repo=zsh_powerlevel9k_installer&theme=dark" />
         </a>
       </td>
-      <td></td>
+      <td>
+        <a href="https://github.com/benjy8001/common-astrophoto-edit-evscope">
+          <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=benjy8001&repo=common-astrophoto-edit-evscope&theme=dark" />
+        </a>
+      </td>
     </tr>
   </table>
 </p>
@@ -82,6 +86,35 @@
 📍 **Lycée du Vimeu (80)** - France
 
 ## Experience
+  
+<table>
+  <tr>
+    <td>
+      <ul>
+        <li>👨‍💻 <b>Consultant Sénior</b><br>
+📆 Depuis Sept. 2018<br>
+          📍 <b>Business&Decision</b> - Amiens, France
+        </li>
+      </ul>
+    </td>
+    <td>
+<img align="right" src="https://img.shields.io/badge/Symfony-000000?logo=Symfony&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white" />
+      <br>
+<img align="right" src="https://img.shields.io/badge/OpenCV-27338e?logo=OpenCV&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Docker-2CA5E0?logo=docker&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
+      <br>
+<img align="right" src="https://img.shields.io/badge/Jira-0052CC?logo=Jira&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Jenkins-D24939?logo=Jenkins&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+
+
+
 </details>
 
 ---
