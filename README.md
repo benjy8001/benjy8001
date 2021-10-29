@@ -68,7 +68,18 @@
   <summary>📃 Resume</summary>
 
 
-## Education
+## Diplômes
+- 📖 **Licence Pro RSC, Exploitation Réseau - Mention Bien**\
+📆 2006 - 2007\
+📍 **IUT de Calais (62)** - France
+
+- 📖 **DUT Informatique, Imagerie Numérique**\
+📆 2004 - 2006\
+📍 **IUT de Calais (62)** - France
+
+- 📖 **BAC STI Electrotechnique - Mention Bien**\
+📆 2004\
+📍 **Lycée du Vimeu (80)** - France
 
 ## Experience
 </details>
